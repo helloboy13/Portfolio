@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Engine-Unreal%20Engine-000?style=for-the-badge&logo=unrealengine" />
   <img src="https://img.shields.io/badge/3D-Blender-orange?style=for-the-badge&logo=blender" />
   <img src="https://img.shields.io/badge/Code-C%23-blue?style=for-the-badge&logo=csharp" />
-  <img src="https://img.shields.io/badge/Club-Ripple%20Forge-purple?style=for-the-badge" />
 </p>
 
 ---
