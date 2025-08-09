@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity" />&nbsp;          
-  <img src="https://img.shields.io/badge/Engine-Unreal%20Engine-000?style=for-the-badge&logo=unrealengine" />&nbsp;        
-  <img src="https://img.shields.io/badge/3D-Blender-orange?style=for-the-badge&logo=blender" />&nbsp;          
+  <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity" />&nbsp;&nbsp;          
+  <img src="https://img.shields.io/badge/Engine-Unreal%20Engine-000?style=for-the-badge&logo=unrealengine" />&nbsp;&nbsp;        
+  <img src="https://img.shields.io/badge/3D-Blender-orange?style=for-the-badge&logo=blender" />&nbsp;&nbsp;          
   <img src="https://img.shields.io/badge/Code-C%23-blue?style=for-the-badge&logo=csharp" />  
 </p>
 
